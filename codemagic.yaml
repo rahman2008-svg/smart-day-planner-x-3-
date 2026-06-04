@@ -1,6 +1,7 @@
 workflows:
   android-build:
     name: Smart Day Planner X Build
+
     environment:
       java: 17
 
